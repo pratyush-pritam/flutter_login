@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857790868839",
+    "project_id": "authtrail-362dd",
+    "storage_bucket": "authtrail-362dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857790868839:android:cac45f57e171d4162993c2",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857790868839-qm4o9gkgp9bpm3sg8206puh6pmslgs42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD54R5g-Q-HonXP2qBhiIadgU-EeJk-ZTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857790868839-qm4o9gkgp9bpm3sg8206puh6pmslgs42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
